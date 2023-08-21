@@ -3,10 +3,6 @@
 #include <algorithm>
 #include <map>
 #include <string>
-#include <queue>
-#include <stack>
-#include <set>
-#include <deque>
 using namespace std;
 
 int stickCount[10] = { 6, 2,5,5,4,5,6,3,7,6 };
