@@ -3,7 +3,14 @@
 #include <queue>
 using namespace std;
 
-int main() {
+int main() { 
+
+	int i = 0;
+	long long result = 0;
+	for (i; i < 300000; i++) {
+		result += i;
+	}
+	cout << result;
 	cin.tie(NULL);
 	ios_base::sync_with_stdio(false);
 	long long N, M;
