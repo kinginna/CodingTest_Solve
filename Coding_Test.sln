@@ -57,6 +57,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ_17140_이차원 배열�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ_17142_연구소 3", "BOJ_17142_연구소 3\BOJ_17142_연구소 3.vcxproj", "{0BBB7C53-3DFA-40F7-9D3A-3AF10B570E47}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ_1463_1로 만들기", "BOJ_1463_1로 만들기\BOJ_1463_1로 만들기.vcxproj", "{97A8528C-A1B9-4A97-873A-01E7BE0E8B39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -281,6 +283,14 @@ Global
 		{0BBB7C53-3DFA-40F7-9D3A-3AF10B570E47}.Release|x64.Build.0 = Release|x64
 		{0BBB7C53-3DFA-40F7-9D3A-3AF10B570E47}.Release|x86.ActiveCfg = Release|Win32
 		{0BBB7C53-3DFA-40F7-9D3A-3AF10B570E47}.Release|x86.Build.0 = Release|Win32
+		{97A8528C-A1B9-4A97-873A-01E7BE0E8B39}.Debug|x64.ActiveCfg = Debug|x64
+		{97A8528C-A1B9-4A97-873A-01E7BE0E8B39}.Debug|x64.Build.0 = Debug|x64
+		{97A8528C-A1B9-4A97-873A-01E7BE0E8B39}.Debug|x86.ActiveCfg = Debug|Win32
+		{97A8528C-A1B9-4A97-873A-01E7BE0E8B39}.Debug|x86.Build.0 = Debug|Win32
+		{97A8528C-A1B9-4A97-873A-01E7BE0E8B39}.Release|x64.ActiveCfg = Release|x64
+		{97A8528C-A1B9-4A97-873A-01E7BE0E8B39}.Release|x64.Build.0 = Release|x64
+		{97A8528C-A1B9-4A97-873A-01E7BE0E8B39}.Release|x86.ActiveCfg = Release|Win32
+		{97A8528C-A1B9-4A97-873A-01E7BE0E8B39}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
