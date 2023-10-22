@@ -67,6 +67,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ_10773_제로", "BOJ_107
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ_1874_스택 수열", "BOJ_1874_스택 수열\BOJ_1874_스택 수열.vcxproj", "{72A19DFA-6B3F-4175-9CBD-073F1210089B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ_2493_탑", "BOJ_2493_탑\BOJ_2493_탑.vcxproj", "{C280F7BC-0D10-414F-8B2A-5D5A8023E4A4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ_17837_새로운 게임 2", "BOJ_17837_새로운 게임 2\BOJ_17837_새로운 게임 2.vcxproj", "{671020DF-F0B8-425D-9453-BEB682CA6CAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -331,6 +335,22 @@ Global
 		{72A19DFA-6B3F-4175-9CBD-073F1210089B}.Release|x64.Build.0 = Release|x64
 		{72A19DFA-6B3F-4175-9CBD-073F1210089B}.Release|x86.ActiveCfg = Release|Win32
 		{72A19DFA-6B3F-4175-9CBD-073F1210089B}.Release|x86.Build.0 = Release|Win32
+		{C280F7BC-0D10-414F-8B2A-5D5A8023E4A4}.Debug|x64.ActiveCfg = Debug|x64
+		{C280F7BC-0D10-414F-8B2A-5D5A8023E4A4}.Debug|x64.Build.0 = Debug|x64
+		{C280F7BC-0D10-414F-8B2A-5D5A8023E4A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{C280F7BC-0D10-414F-8B2A-5D5A8023E4A4}.Debug|x86.Build.0 = Debug|Win32
+		{C280F7BC-0D10-414F-8B2A-5D5A8023E4A4}.Release|x64.ActiveCfg = Release|x64
+		{C280F7BC-0D10-414F-8B2A-5D5A8023E4A4}.Release|x64.Build.0 = Release|x64
+		{C280F7BC-0D10-414F-8B2A-5D5A8023E4A4}.Release|x86.ActiveCfg = Release|Win32
+		{C280F7BC-0D10-414F-8B2A-5D5A8023E4A4}.Release|x86.Build.0 = Release|Win32
+		{671020DF-F0B8-425D-9453-BEB682CA6CAE}.Debug|x64.ActiveCfg = Debug|x64
+		{671020DF-F0B8-425D-9453-BEB682CA6CAE}.Debug|x64.Build.0 = Debug|x64
+		{671020DF-F0B8-425D-9453-BEB682CA6CAE}.Debug|x86.ActiveCfg = Debug|Win32
+		{671020DF-F0B8-425D-9453-BEB682CA6CAE}.Debug|x86.Build.0 = Debug|Win32
+		{671020DF-F0B8-425D-9453-BEB682CA6CAE}.Release|x64.ActiveCfg = Release|x64
+		{671020DF-F0B8-425D-9453-BEB682CA6CAE}.Release|x64.Build.0 = Release|x64
+		{671020DF-F0B8-425D-9453-BEB682CA6CAE}.Release|x86.ActiveCfg = Release|Win32
+		{671020DF-F0B8-425D-9453-BEB682CA6CAE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
